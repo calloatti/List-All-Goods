@@ -1,0 +1,14 @@
+{
+  "Name": "List All Goods",
+  "Version": "1.0.0",
+  "Id": "Calloatti.ListAllGoods",
+  "MinimumGameVersion": "1.0.12.10",
+  "Description": "This mod forces the top bar to permanently display every good in the game, even if you currently have zero in stock.",
+    "RequiredMods": [
+        {
+            "Id": "Harmony",
+            "MinVersion": "2.4.1"
+        }
+    ],
+    "OptionalMods": []
+}

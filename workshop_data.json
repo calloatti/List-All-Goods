@@ -1,0 +1,14 @@
+{
+  "ItemId": "3707121479",
+  "Name": "List All Goods",
+  "Visibility": "Public",
+  "UpdateDescription": true,
+  "UpdateVisibility": true,
+  "UpdatePreview": true,
+  "UpdateTags": true,
+  "Tags": [
+    "Update 1.0",
+    "Quality of life",
+    "Visuals"
+  ]
+}
