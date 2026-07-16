@@ -5,12 +5,7 @@ Type = "bool"
 DefaultValue = false
 Label = "Only list goods with available storage"
 Tooltip = "Only list goods that have available storage for them"
-ControlType = "Toggle" # "Toggle", "Slider", "TextField", "Dropdown".
-MinValue = 0
-MaxValue = 0
-Step = 0
-Options = []
-AvailableIn = ["MainMenu", "Game"]
+ControlType = "Toggle"
 RequiresRestart = false
 RequiresReload = false
 
