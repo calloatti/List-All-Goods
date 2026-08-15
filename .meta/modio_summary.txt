@@ -1,0 +1,1 @@
+This mod forces the top bar to permanently display every good in the game, even if you currently have zero in stock.
