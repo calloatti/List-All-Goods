@@ -19,3 +19,8 @@ Enhances the goods display to list ALL goods (including ones with zero stock) in
 |---|---|
 | `ModStarter.cs` | Entry point — `IModStarter` |
 | `ModPatches.cs` | Harmony patches for goods listing behavior |
+
+## Hard Rule
+DO NOT EVER TOUCH THE DEPLOY FOLDER.
+
+BUILD DOES EVERYTHING, NEVER EVER MESS WITH THE DEPLOY PROCESS.
