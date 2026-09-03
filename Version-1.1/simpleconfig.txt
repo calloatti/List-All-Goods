@@ -1,0 +1,11 @@
+ConfigFileName = "ListAllGoods.txt"
+
+Key = "OnlyListGoodsWithStorage"
+Type = "bool"
+DefaultValue = false
+Label = "Only list goods with available storage"
+Tooltip = "Only list goods that have available storage for them"
+ControlType = "Toggle"
+RequiresRestart = false
+RequiresReload = false
+
