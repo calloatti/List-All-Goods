@@ -1,6 +1,6 @@
 {
-  "DepsFile": "C:/Users/calloatti/source/repos/Mods/List All Goods/.meta/steam_deps.txt",
-  "ItemId": "3707121479",
   "ContentFolder": "C:/Users/calloatti/Documents/Timberborn/Mods/List All Goods",
-  "ChangeNoteFile": "C:/Users/calloatti/source/repos/Mods/List All Goods/.meta/steam_changelog.txt"
+  "ItemId": "3707121479",
+  "ChangeNoteFile": "C:/Users/calloatti/source/repos/Mods/List All Goods/.meta/steam_changelog.txt",
+  "DepsFile": "C:/Users/calloatti/source/repos/Mods/List All Goods/.meta/steam_deps.txt"
 }
